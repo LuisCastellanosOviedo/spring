@@ -8,6 +8,7 @@ import javax.persistence.Id;
 /**
  * Created by luis on 4/3/2017.
  */
+
 @Entity
 public class Book {
     @Id
@@ -32,6 +33,7 @@ public class Book {
     }
     public String getIsbn() {
         return isbn;
+
     }
     public void setIsbn(String isbn) {
         this.isbn = isbn;
