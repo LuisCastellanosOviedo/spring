@@ -1,9 +1,9 @@
-package com.readlist.com.spring4.autoScanExample;
+package com.readlist.com.spring4.autoScanExample.spring4.commons.CDplayer;
 
 import org.springframework.stereotype.Component;
 
 /**
- * Created by luis on 4/6/2017.
+ * Created by luis on 4/10/2017.
  */
 
 @Component
