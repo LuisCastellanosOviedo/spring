@@ -10,4 +10,7 @@ import org.springframework.stereotype.Component;
 public interface CompactDics {
 
     void play();
+
+    void playTrack(int trackNumber);
+
 }
